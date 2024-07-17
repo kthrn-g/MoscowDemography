@@ -1,0 +1,1 @@
+The project was done in a group with @anastasmaximoff and it was aimed at establising the dependence of the number of births of children to the number of marriages, divorces and paternity examination, etc. Conclusions were made through building a machine learning model.  
